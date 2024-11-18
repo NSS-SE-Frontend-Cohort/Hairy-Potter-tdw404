@@ -16,4 +16,4 @@ const usePottery = () => {
     return structuredClone(inventoryList);
 }
 
-module.exports = { toSellOrNotToSell, usePottery }
+export { toSellOrNotToSell, usePottery }

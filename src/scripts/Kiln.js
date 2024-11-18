@@ -10,4 +10,4 @@ const firePottery = (pottery, fireTemp) => {
     return pottery;
 };
 
-module.exports = { firePottery };
+export { firePottery };

@@ -10,4 +10,4 @@ const makePottery = (shape, weight, height) => {
     };
 };
 
-module.exports = { makePottery };
+export { makePottery };
