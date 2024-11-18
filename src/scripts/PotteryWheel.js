@@ -1,13 +1,13 @@
-let potteryKey = 0;
+let potteryKey = 0
 
 const makePottery = (shape, weight, height) => {
-    potteryKey ++;
+    potteryKey ++
     return {
         id: potteryKey,
         shape: shape,
         weight: weight,
         height: height
-    };
-};
+    }
+}
 
-export { makePottery };
+export { makePottery }
