@@ -1,6 +1,6 @@
 // Imports go first
 import { rng } from "./RNG.js"
-import{ makePottery } from "./PotteryWheel.js"
+import { makePottery } from "./PotteryWheel.js"
 import { firePottery } from "./Kiln.js"
 import { toSellOrNotToSell } from "./PotteryCatalog.js"
 import { PotteryList } from "./PotteryList.js"
